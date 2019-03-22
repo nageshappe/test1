@@ -1,13 +1,13 @@
 {
-  "main.css": "/helloworld/static/css/main.af73ed7f.chunk.css",
-  "main.js": "/helloworld/static/js/main.c7e8bdf2.chunk.js",
-  "main.js.map": "/helloworld/static/js/main.c7e8bdf2.chunk.js.map",
-  "runtime~main.js": "/helloworld/static/js/runtime~main.c32053ff.js",
-  "runtime~main.js.map": "/helloworld/static/js/runtime~main.c32053ff.js.map",
-  "static/js/2.4b8ce697.chunk.js": "/helloworld/static/js/2.4b8ce697.chunk.js",
-  "static/js/2.4b8ce697.chunk.js.map": "/helloworld/static/js/2.4b8ce697.chunk.js.map",
-  "index.html": "/helloworld/index.html",
-  "precache-manifest.e90a7970ae8b999ac2c61f5d2767e82b.js": "/helloworld/precache-manifest.e90a7970ae8b999ac2c61f5d2767e82b.js",
-  "service-worker.js": "/helloworld/service-worker.js",
-  "static/css/main.af73ed7f.chunk.css.map": "/helloworld/static/css/main.af73ed7f.chunk.css.map"
+  "main.css": "/nageshappe/test1/Helloworld/static/css/main.af73ed7f.chunk.css",
+  "main.js": "/nageshappe/test1/Helloworld/static/js/main.c7e8bdf2.chunk.js",
+  "main.js.map": "/nageshappe/test1/Helloworld/static/js/main.c7e8bdf2.chunk.js.map",
+  "runtime~main.js": "/nageshappe/test1/Helloworld/static/js/runtime~main.3a602a77.js",
+  "runtime~main.js.map": "/nageshappe/test1/Helloworld/static/js/runtime~main.3a602a77.js.map",
+  "static/js/2.4b8ce697.chunk.js": "/nageshappe/test1/Helloworld/static/js/2.4b8ce697.chunk.js",
+  "static/js/2.4b8ce697.chunk.js.map": "/nageshappe/test1/Helloworld/static/js/2.4b8ce697.chunk.js.map",
+  "index.html": "/nageshappe/test1/Helloworld/index.html",
+  "precache-manifest.dbd701218f30e6251afe30054f3bb305.js": "/nageshappe/test1/Helloworld/precache-manifest.dbd701218f30e6251afe30054f3bb305.js",
+  "service-worker.js": "/nageshappe/test1/Helloworld/service-worker.js",
+  "static/css/main.af73ed7f.chunk.css.map": "/nageshappe/test1/Helloworld/static/css/main.af73ed7f.chunk.css.map"
 }
